@@ -59,13 +59,7 @@
   horairefin: 18h
 
 - eglise: therese
-  jour: 
-     - mardi
-     - mercredi
-     - jeudi
-     - vendredi
-  horaire: 17h30
-  horairefin: 18h
+  
 
 - eglise: therese
   jour: 
